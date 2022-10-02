@@ -6,9 +6,7 @@ Software Engineer
 
 Amenable Software Engineer gifted at translating basic client requirements into technical development plans. Communicates productively with both technical and non-technical personnel and clients. Friendly provider of deep programming knowledge and invaluable final products, also a Network Support Engineer with up to 2years of comprehensive experience designing, implementing and maintaining the growing network infrastructure. An analytical and logical professional quickly learns new concepts paired to complement understanding of networking protocols and OSI or TCP models. Commended for providing top-notch, hands-on technical support.
 <div align="center">
-  <h2> Hello World! </h2>
-   <h3> I'm Adesanmi Aderemi <a href="https://remtechportfolio.com" target="_blank">Remtech </a> </h3>
-   <p> <b>  Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 </b> </p>
+     <p> <b>  Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 </b> </p>
 
    <a href="mailto:adesanmiaderemi@gmail.com" target="_blank">Mail </a> | <a href="https://remtechportfolio.com" target="_blank">Portfolio </a> | <a href="https://www.linkedin.com/in/aderemi-adesanmi-63aa7a12a/" target="_blank">LinkedIn </a> 
    <p> I code to make lives easier, to learn and for fun! </p>
