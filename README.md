@@ -2,11 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================================================================================
 
 <div align="center">
-Software Engineer
+<strong>Software Engineer</strong>
 </div>
-==================================================================================================================================================================================================
+
 <div align="justify">
 Amenable Software Engineer gifted at translating basic client requirements into technical development plans. Communicates productively with both technical and non-technical personnel and clients. Friendly provider of deep programming knowledge and invaluable final products, also a Network Support Engineer with up to 2years of comprehensive experience designing, implementing and maintaining the growing network infrastructure. An analytical and logical professional quickly learns new concepts paired to complement understanding of networking protocols and OSI or TCP models. Commended for providing top-notch, hands-on technical support.
+</div>
+
+<div>
 </div>
 
 <div align="center">
