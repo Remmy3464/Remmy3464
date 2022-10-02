@@ -16,7 +16,7 @@ Amenable Software Engineer gifted at translating basic client requirements into 
 
 <div align="center">
  
-   ![Metrics](github-metrics.svg) ![Tweets](tweets.svg) 
+   ![Metrics](github-metrics.svg)
 
   <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
   <p> <b> 🔥 Keep making noises with your keyboard! 🔥 </b></p>
