@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm ADEREMI ADESANMI
-======================================================================================================================================
-
+<div align="center">
 Software Engineer
-======================================================================================================================================
+</div>
 
+<div align="justify">
 Amenable Software Engineer gifted at translating basic client requirements into technical development plans. Communicates productively with both technical and non-technical personnel and clients. Friendly provider of deep programming knowledge and invaluable final products, also a Network Support Engineer with up to 2years of comprehensive experience designing, implementing and maintaining the growing network infrastructure. An analytical and logical professional quickly learns new concepts paired to complement understanding of networking protocols and OSI or TCP models. Commended for providing top-notch, hands-on technical support.
+</div>
+
 <div align="center">
      <p> <b>  Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 </b> </p>
 
