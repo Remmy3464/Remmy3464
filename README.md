@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================================================================================
 <div align="center">
 <h1><strong>Software Engineer</strong></h1>
+ <p> <b>  Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 </b> </p>
 </div>
 
 <div align="justify">
@@ -12,8 +13,6 @@ Amenable Software Engineer gifted at translating basic client requirements into 
 </div>
 
 <div align="center">
-     <p> <b>  Software Craftsperson 💼 | Learner 📚 | Maker 👨🏻‍💻 | Explorer 🔎 </b> </p>
-
    <a href="mailto:adesanmiaderemi@gmail.com" target="_blank">Mail </a> | <a href="https://remtechportfolio.com" target="_blank">Portfolio </a> | <a href="https://www.linkedin.com/in/aderemi-adesanmi-63aa7a12a/" target="_blank">LinkedIn </a> 
    <p> I code to make lives easier, to learn and for fun! </p>
 
